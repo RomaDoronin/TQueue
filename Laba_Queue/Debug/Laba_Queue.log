@@ -1,0 +1,21 @@
+﻿Построение начато 14.12.2015 23:33:00.
+     1>Проект "c:\documents\visual studio 2010\Projects\Laba_Queue\Laba_Queue\Laba_Queue.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Laba_Queue.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+       Manifest:
+         Для всех выходных данных обновления не требуется.
+       FinalizeBuildStatus:
+         Файл "Debug\Laba_Queue.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Laba_Queue.lastbuildstate".
+     1>Построение проекта "c:\documents\visual studio 2010\Projects\Laba_Queue\Laba_Queue\Laba_Queue.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.08
